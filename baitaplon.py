@@ -86,4 +86,4 @@ schedule.every().day.at("6:00").do(lay_dulieu)
 print("Đang chờ đến thời gian được đặt để chạy...")
 while True:
     schedule.run_pending()
-    time.sleep(60)  # Kiểm tra mỗi phút
+    time.sleep(60)  
