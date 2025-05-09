@@ -6,7 +6,7 @@ Công cụ tự động để thu thập thông tin việc làm từ trang web v
 
 - Thu thập chi tiết công việc (tiêu đề, công ty, mức lương, loại hình công việc, ngày đăng, hạn nộp hồ sơ)
 - Chạy tự động vào lúc 6:00 sáng hàng ngày
-- Xuất dữ liệu vào file CSV hoặc Excel (hiện tại chỉ hỗ trợ CSV)
+- Xuất dữ liệu vào file CSV hoặc Excel 
 
 ## 🛠 Cài đặt
 
